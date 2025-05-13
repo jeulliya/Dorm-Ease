@@ -1,4 +1,4 @@
-# Dorm Ease
+# How to Run DormEase
 1. Install XAMPP
 2. Locate the htdocs
 3. Save the folder inside htdocs folder.
